@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webWidget>
+	<widgetName>Bet333</widgetName>
+	<registeredUrl>
+		<link>http://stat.appsgeyser.com/statistics.php</link>
+	</registeredUrl>  
+		<id>1398081</id>
+	<usage>
+		<link>http://stat.appsgeyser.com/statistics.php</link>
+	</usage>
+	<preventFromSleep>false</preventFromSleep>
+	<locationUrl>
+		<link>icc.to/desktopify/android/location.php</link>  
+	</locationUrl>
+	<contentProtection></contentProtection>
+	<acceptCookie>true</acceptCookie>
+	<userInterface>standard</userInterface>
+	<bannerPosition>bottom</bannerPosition>
+	<rateItemVisibility>FALSE</rateItemVisibility>
+	<showRefreshMenuItem>FALSE</showRefreshMenuItem>
+	<showShareMenuItem>true</showShareMenuItem>
+	<showAboutMenuItem>true</showAboutMenuItem>
+	<showExitMenuItem>true</showExitMenuItem>
+	<enableUrlBar>false</enableUrlBar>
+	<enableFullScreenBanner>true</enableFullScreenBanner>
+	<enableOnExitFullScreenBanner>true</enableOnExitFullScreenBanner>
+	<enableRedirection>true</enableRedirection>
+	<downloadAction></downloadAction>
+	<affiliate></affiliate>
+	<publisher></publisher>
+	<enableAboutScreen>true</enableAboutScreen>
+	<shareExtraLink></shareExtraLink>
+	<theme>SLIDER</theme>
+	<urlBarStyle>bottom</urlBarStyle>
+	<showStartupConfirmationDialog></showStartupConfirmationDialog>
+	<splashScreen  image="" background="#000000"/>
+	<urlBarMenuItems>
+	  
+			<button name="forward"/>
+			<button name="request_desktop"/>
+			<button name="add_to_home"/>
+			<button name="home">home</button>
+			
+	</urlBarMenuItems>
+	<fullScreenMode>
+		<content>
+					<id>tab0</id>
+					<name>Bet333</name>
+					<link>http://m.998bet.net/account/login?companyid=gdbet333&amp;user=0127707812</link>
+					<update>0</update>
+					<width>319</width>
+					<height>458</height>
+					<tabName>Bet333</tabName>
+					<tabIcon>tabicon_0</tabIcon>
+					<tabId>1611612</tabId>
+					
+					<loadingCurtain>none</loadingCurtain>
+					
+				 </content>
+			 
+	</fullScreenMode> 
+</webWidget>
